@@ -51,10 +51,6 @@ A rendering option can be selected for viewing the number of times a square is p
 
 ![image](https://user-images.githubusercontent.com/129943363/230103111-c780974a-4486-49e6-b28d-08b5e8788993.png)
 
-## Prerequisites
- * Windows
-   * Download free IDE Visual Studio 2022 Community ( >> https://visualstudio.microsoft.com/de/vs/community/ ), or use commercial Visual Studio 2022 Version.
-
 ## Getting Started
  * Clone the repo.
  * Build all projects.
